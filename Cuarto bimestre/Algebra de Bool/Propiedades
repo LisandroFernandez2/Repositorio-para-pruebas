@@ -1,1 +1,58 @@
+CUADRO DE PROPIEDADES DEL ÁLGEBRA DE BOOLE
 
+1. Propiedad de identidad
+
+- A + 0 = A
+- A · 1 = A
+
+2. Propiedad de dominación
+
+- A + 1 = 1
+- A · 0 = 0
+
+3. Propiedad de idempotencia
+
+- A + A = A
+- A · A = A
+
+4. Propiedad de complemento
+
+- A + A̅ = 1
+- A · A̅ = 0
+
+5. Propiedad de involución
+
+- (A̅)̅ = A
+
+6. Propiedad conmutativa
+
+- A + B = B + A
+- A · B = B · A
+
+7. Propiedad asociativa
+
+- (A + B) + C = A + (B + C)
+- (A · B) · C = A · (B · C)
+
+8. Propiedad distributiva
+
+- A · (B + C) = A · B + A · C
+- A + (B · C) = (A + B) · (A + C)
+
+9. Propiedad de absorción
+
+- A + (A · B) = A
+- A · (A + B) = A
+
+10. Leyes de De Morgan
+
+- (A + B)̅ = A̅ · B̅
+- (A · B)̅ = A̅ + B̅
+
+SIMBOLOGÍA
+
+- + significa OR (O).
+- · significa AND (Y).
+- La barra superior significa NOT (NO).
+- 0 representa FALSO.
+- 1 representa VERDADERO.
